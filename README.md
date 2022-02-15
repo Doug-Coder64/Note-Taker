@@ -3,11 +3,10 @@
   
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-  ## Description
   The Note Taker is a simple easy to use note app that saves to a db.json file. Raw data can be viewed at `/api/notes`
   
   ## Table of Contents
- * [Description](#Description)
+ * [Description](#Note_Taker)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributing](#Contributing)
@@ -28,17 +27,13 @@ This project does require you to run the following commands:
  
 ![Example Oct 24, 2021 4_28 PM ](https://user-images.githubusercontent.com/85598391/138613712-3cb3d1f3-4388-44fc-a0f6-6c17264c6a6b.gif)
 
+## Contributing
 
-  ## Contributing 
- Please feel free to message me with any improvements or if you are wanting to collaborate on this project more.
+Please read [CONTRIBUTING.md](https://github.com/Doug-Coder64/Note-Taker/blob/main/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-  
+## Questions
+Questions about the project?
+Reach out:
 
-  ## License 
- This Project is covered under the MIT
-
-  ## Questions 
- Questions about the project? 
- Reach out: 
- * [doug-coder64](https://github.com/doug-coder64)
-  
+- [douglaspeterson6@gmail.com](mailto:douglaspeterson6@gmail.com)
+- [Doug-Coder64](https://github.com/Doug-Coder64)
